@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\studiowork\\Zhangtongyuan20161124\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\wolf.jpg",
+        "source": "D:\\studiowork\\Zhangtongyuan20161124\\app\\src\\main\\res\\mipmap-hdpi\\wolf.jpg"
+    },
+    {
+        "merged": "D:\\studiowork\\Zhangtongyuan20161124\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\studiowork\\Zhangtongyuan20161124\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\studiowork\\Zhangtongyuan20161124\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\takeout_img_list_loading_pic1.png",
+        "source": "D:\\studiowork\\Zhangtongyuan20161124\\app\\src\\main\\res\\mipmap-hdpi\\takeout_img_list_loading_pic1.png"
+    },
+    {
+        "merged": "D:\\studiowork\\Zhangtongyuan20161124\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\takeout_img_list_loading_pic2.png",
+        "source": "D:\\studiowork\\Zhangtongyuan20161124\\app\\src\\main\\res\\mipmap-hdpi\\takeout_img_list_loading_pic2.png"
+    }
+]
